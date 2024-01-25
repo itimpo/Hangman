@@ -1,6 +1,6 @@
-# Hangman Game with Emotions
+# Hangman Game
 
-This project is a fun and interactive implementation of the classic Hangman game, with a twist - it includes emotions! 
+This project is a fun and interactive implementation of the classic Hangman game! 
 
 ## Implementation
 
